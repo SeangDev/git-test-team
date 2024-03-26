@@ -1,6 +1,6 @@
 def main(a, b) :
     return a + b
-A = 10
-B = 20
+A = 43
+B = 9
 res = main(A, B)
 print(res)
